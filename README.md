@@ -1,4 +1,4 @@
-# todolist
+# Vue로 제작한 todolist
 
 
 
